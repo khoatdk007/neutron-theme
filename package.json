@@ -1,0 +1,34 @@
+{
+    "name": "neutron-theme",
+    "displayName": "Neutron Theme",
+    "description": "A theme for everyone",
+    "version": "0.0.1",
+    "icon": "images/icon.png",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/khoatdk007/neutron-theme.git"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Theme",
+        "Laetus",
+        "Neutron",
+        "Proton",
+        "Monokai",
+        "Dark"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Neutron Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Neutron-color-theme.json"
+            }
+        ]
+    }
+}
