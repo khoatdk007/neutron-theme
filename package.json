@@ -3,6 +3,7 @@
     "displayName": "Neutron Theme",
     "description": "A theme for everyone",
     "version": "0.0.1",
+    "publisher": "khoatdk007",
     "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.44.0"
