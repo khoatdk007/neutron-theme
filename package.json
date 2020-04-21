@@ -2,11 +2,11 @@
     "name": "neutron-theme",
     "displayName": "Neutron Theme",
     "description": "A theme for everyone",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "publisher": "khoatdk007",
     "icon": "images/icon.png",
     "engines": {
-        "vscode": "^1.44.0"
+        "vscode": "^1.15.0"
     },
     "repository": {
         "type": "git",
